@@ -1,0 +1,8 @@
+.idea/
+.bsp/
+*.class
+*.log
+*.csv
+target/
+testOutput/
+
